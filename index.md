@@ -4,23 +4,20 @@ title: Yongjian Yang
 subtitle: Ph.D. Candidate, Department of Electrical & Computer Engineering, Texas A&M University
 ---
 
-<div class="container">
-	<div class="row">&nbsp;</div>
-	<div class="row">
-		<div class="col-md-3">
-			<a class="thumb" href="#">
-				<img src="assets/img/image.jpeg" class="img-responsive" alt="yjyang" width="240"/>
-			</a>
-		</div>
-	</div>
-	<hr>
-</div>
+<style>
+  img {
+    margin: 30px;
+  }
+</style>
+<img align="left" src="assets/img/image.jpeg" alt="yjgeno" width=260>
+<br>
 
 ### Contact <br>
 [Cailab](https://cailab-tamu.github.io) <br>
 [Department of Electrical & Computer Engineering](https://engineering.tamu.edu/electrical) <br>
 [Texas A&M University](http://www.tamu.edu) <br>
 Email: yjyang027 [at] tamu.edu <br>
+<br clear="left"/>
 <hr>
 
 I am currently a Ph.D. candidate in computer engineering at Texas A&M University, where I am researching on computation biology with machine learning. My research has provided me with a thorough understanding of the interface between computer science and biology, as well as skills in data analysis, programming, and statistical modeling.
