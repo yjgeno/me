@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Yongjian Yang
 subtitle: Ph.D. Candidate, Department of Electrical & Computer Engineering, Texas A&M University
 ---
