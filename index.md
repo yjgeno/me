@@ -9,36 +9,27 @@ subtitle: Ph.D. Candidate, Department of Electrical & Computer Engineering, Texa
 	<div class="row">
 		<div class="col-md-3">
 			<a class="thumb" href="#">
-				<img src="assets/img/image.jpeg" class="img-responsive" alt="yjyang"/>
+				<img src="assets/img/image.jpeg" class="img-responsive" alt="yjyang" width="240"/>
 			</a>
-		</div>
-		<div class="col-md-6">
-			<h3>Contact:</h3>
-			<p>
-				<a href="https://cailab-tamu.github.io"> Cailab</a> <br>
-				<a href="https://engineering.tamu.edu/electrical"> Department of Electrical & Computer Engineering</a> <br>
-				<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
-				3143 TAMU <br>
-				College Station, TX 77843 <br>
-				<!-- <strong>Office:</strong> 279 VRB <br> -->
-				<strong>Email:</strong> yjyang027 [at] tamu.edu <br>
-				<br>
-			</p>
 		</div>
 	</div>
 	<hr>
 </div>
+
+### Contact <br>
+[Cailab](https://cailab-tamu.github.io) <br>
+[Department of Electrical & Computer Engineering](https://engineering.tamu.edu/electrical) <br>
+[Texas A&M University](http://www.tamu.edu) <br>
+Email: yjyang027 [at] tamu.edu <br>
+<hr>
 
 I am currently a Ph.D. candidate in computer engineering at Texas A&M University, where I am researching on computation biology with machine learning. My research has provided me with a thorough understanding of the interface between computer science and biology, as well as skills in data analysis, programming, and statistical modeling.
 
 On the other hand, working in the healthcare industry in Japan has taught me to be a quick learner with excellent time/task management skills, allowing me to participate in a variety of R&D projects. I am also a team player with cooperative skills gained from working with people from various backgrounds and cultures.
 
 I believe that my desire to solve difficult problems and my innovative critical thinking will be beneficial to the areas on which I am concentrating my efforts.
+<hr>
 
 ### Recent news:
 
-* **Feb 2023:** My research article *"scTenifoldXct"* on cell-cell communication is now online at [CellSystems](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00030-3.pdf). [\[Python code\]](https://github.com/cailab-tamu/scTenifoldKnk).
-	
-	
-<!-- <div class="row">&nbsp;</div>
-</div>	 -->
+* **Feb 2023:** My research article scTenifoldXct on cell-cell communication is now online at [CellSystems](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00030-3.pdf). [\[Python code\]](https://github.com/cailab-tamu/scTenifoldKnk).
