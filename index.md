@@ -29,9 +29,10 @@ I believe that my desire to solve difficult problems and my innovative critical 
 <hr>
 
 ### Recent news
-* **Apr 2023:** My research article on virtual gene knockout has been generally accpeted at [Nucleic Acids Research](https://academic.oup.com/nar/pages/About) (IF: 19.16, more to come...).
+* **May 2023:** My research article on interpretable modeling of gene-protein is now available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.16.541011v2). [\[Python code\]](https://github.com/yjgeno/Multimodal_22)
+* **May 2023:** My research article on virtual gene knockout (GenKI) is now online at [Nucleic Acids Research](https://doi.org/10.1093/nar/gkad450) (IF: 19.16). [\[Python code\]](https://github.com/yjgeno/GenKI)
 * **Mar 2023:** Thrilled to receive the Electrical and Computer Engineering Travel Grant for [RECOMB 2023](http://recomb2023.bilkent.edu.tr).
-* **Feb 2023:** My research article scTenifoldXct on cell-cell communication is now online at [Cell Systems](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00030-3.pdf) (IF: 11.09). [\[Python code\]](https://github.com/cailab-tamu/scTenifoldXct)
+* **Feb 2023:** My research article scTenifoldXct on cell-cell communication is now online at [Cell Systems](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00030-3.pdf) (Cell Press, IF: 11.09). [\[Python code\]](https://github.com/cailab-tamu/scTenifoldXct)
 * **Nov 2022:** Presented my work at TAMIDS 2022 Scientific Machine Learning (SciML) Workshop.
 * **Oct 2022:** Presented my work at 3rd Annual GCC Single Cell Omics Symposium.
 * **Aug 2022:** Thrilled to receive the Texas A&M Institute of Data Science Travel Grants for ICIBM 2022.
