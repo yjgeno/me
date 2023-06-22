@@ -19,6 +19,7 @@ Email: yjyang027 [at] tamu.edu <br>
 <br clear="left"/>
 <hr>
 
+### My 101
 Hello, my name is Yongjian Yang (杨　永健). I am currently a 4th year Ph.D. student in electrical and computer engineering at Texas A&M University, where I am researching on computation biology with machine learning advised by [Dr. James Cai](https://engineering.tamu.edu/electrical/profiles/james-cai.html) in [Cailab](https://cailab-tamu.github.io). My research has provided me with a thorough understanding of the interface between computer science and biology, as well as skills in data analysis, programming, and statistical modeling.
 
 On the other hand, working in the healthcare industry in Japan has taught me to be a quick learner with excellent time/task management skills, allowing me to participate in a variety of R&D projects. I am also a team player with cooperative skills gained from working with people from various backgrounds and cultures. 日本語も喋ります。
@@ -29,13 +30,15 @@ I believe that my desire to solve difficult problems and my innovative critical 
 <hr>
 
 ### Recent news
+* **June 2023:** Invited to speak at [AI2Health](https://ai2healthcare.github.io/archive) about my work scTenifoldXct and GenKI.  [\[Video\]](https://youtu.be/AKwP9rzrbVU?t=165)
+* **June 2023:** My abstract on gene-protein modeling has been accepted by [ICML Workshop on Computational Biology](https://icml-compbio.github.io/).
 * **May 2023:** My research article on interpretable modeling of gene-protein is now available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.16.541011v2). [\[Python code\]](https://github.com/yjgeno/Multimodal_22)
 * **May 2023:** My research article on virtual gene knockout (GenKI) is now online at [Nucleic Acids Research](https://doi.org/10.1093/nar/gkad450) (IF: 19.16). [\[Python code\]](https://github.com/yjgeno/GenKI)
-* **Mar 2023:** Thrilled to receive the Electrical and Computer Engineering Travel Grant for [RECOMB 2023](http://recomb2023.bilkent.edu.tr).
+* **Mar 2023:** Thrilled to receive the Electrical and Computer Engineering Travel Grant for [RECOMB 2023](http://recomb2023.bilkent.edu.tr) and presented my work.
 * **Feb 2023:** My research article scTenifoldXct on cell-cell communication is now online at [Cell Systems](https://www.cell.com/cell-systems/pdf/S2405-4712(23)00030-3.pdf) (Cell Press, IF: 11.09). [\[Python code\]](https://github.com/cailab-tamu/scTenifoldXct)
 * **Nov 2022:** Presented my work at TAMIDS 2022 Scientific Machine Learning (SciML) Workshop.
 * **Oct 2022:** Presented my work at 3rd Annual GCC Single Cell Omics Symposium.
-* **Aug 2022:** Thrilled to receive the Texas A&M Institute of Data Science Travel Grants for ICIBM 2022.
+* **Aug 2022:** Thrilled to receive the Texas A&M Institute of Data Science Travel Grants for [ICIBM 2022](https://icibm2022.iaibm.org) and presented my work.
 * **Mar 2022:** Our work scTenifoldKnk on virtual gene knockout is now online at [Patterns](https://www.sciencedirect.com/science/article/pii/S2666389922000010). [\[R code\]](https://github.com/cailab-tamu/scTenifoldKnk)
 * **Jan 2022:** My research article on the Aryl Hydrocarbon Receptor is now online at [Cancer Prevention Research](https://aacrjournals.org/cancerpreventionresearch/article/15/1/17/675000) and featured as cover image.
 * **Oct 2021:** Presented my work at 2nd Annual GCC Single Cell Omics Symposium.
