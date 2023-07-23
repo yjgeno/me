@@ -30,6 +30,7 @@ I believe that my desire to solve difficult problems and my innovative critical 
 <hr>
 
 ### Recent news
+* **July 2023:** Starting an intern position at [Moderna](https://www.modernatx.com/en-US).
 * **June 2023:** Invited to speak at [AI2Health](https://ai2healthcare.github.io/archive) about my work scTenifoldXct and GenKI.  [\[Video\]](https://youtu.be/AKwP9rzrbVU?t=165)
 * **June 2023:** My abstract on gene-protein modeling has been accepted by [ICML Workshop on Computational Biology](https://icml-compbio.github.io/).
 * **May 2023:** My research article on interpretable modeling of gene-protein is now available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.16.541011v2). [\[Python code\]](https://github.com/yjgeno/Multimodal_22)
