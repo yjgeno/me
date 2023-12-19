@@ -27,6 +27,8 @@ I believe that my desire to solve difficult problems and my innovative critical 
 <hr>
 
 ### Recent news
+* **Dec 2023:** Completed internship at Moderna <br>
+<img src="assets/img/mymoderna.jpg" alt="Moderna Internship Snapshot" style="max-width: 35%; margin-top: 3px; margin-bottom: 2px; margin-left: 3px">
 * **Sep 2023:** My research article on interpretable modeling of gene-protein has been accepted by **<span style="color:red;">Briefings in Bioinformatics</span>** (IF: 13.99) [\[Paper\]](https://academic.oup.com/bib/article-abstract/24/6/bbad342/7291995) [\[Code\]](https://github.com/yjgeno/Multimodal_22)
 * **July 2023:** Starting an intern position at Computational Science, [Moderna](https://www.modernatx.com/en-US)
 * **June 2023:** Contributed as a Reviewer for [ACM-BIB 2023](https://acm-bcb.org)
